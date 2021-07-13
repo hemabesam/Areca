@@ -1,0 +1,14 @@
+D:\SkyloWeb\SkyloWeb\bin\SkyloWeb.dll.config
+D:\SkyloWeb\SkyloWeb\bin\SkyloWeb.dll
+D:\SkyloWeb\SkyloWeb\bin\SkyloWeb.pdb
+D:\SkyloWeb\SkyloWeb\bin\Newtonsoft.Json.dll
+D:\SkyloWeb\SkyloWeb\bin\System.Net.Http.Formatting.dll
+D:\SkyloWeb\SkyloWeb\bin\System.Web.Http.dll
+D:\SkyloWeb\SkyloWeb\bin\System.Web.Http.WebHost.dll
+D:\SkyloWeb\SkyloWeb\bin\Newtonsoft.Json.xml
+D:\SkyloWeb\SkyloWeb\bin\System.Net.Http.Formatting.xml
+D:\SkyloWeb\SkyloWeb\bin\System.Web.Http.xml
+D:\SkyloWeb\SkyloWeb\bin\System.Web.Http.WebHost.xml
+D:\SkyloWeb\SkyloWeb\obj\Debug\SkyloWeb.csprojResolveAssemblyReference.cache
+D:\SkyloWeb\SkyloWeb\obj\Debug\SkyloWeb.dll
+D:\SkyloWeb\SkyloWeb\obj\Debug\SkyloWeb.pdb
